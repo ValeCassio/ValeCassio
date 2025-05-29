@@ -2,7 +2,7 @@
 
 💻 **Analista de Ciberseguridad** especializada en tecnologías Microsoft (Azure, Intune, Defender for Endpoint) y apasionada por la seguridad cloud, el análisis de vulnerabilidades y el aprendizaje constante.
 
-🔐 Actualmente formándome en pentesting y monitoreo con herramientas como SIEM, Wazuh, Metasploit y más.
+🔐 **Analista de Ciberseguridad** formada en pentesting y monitoreo con herramientas como SIEM, Wazuh, Metasploit y más.
 
 🌍 Hablo italiano 🇮🇹, español 🇪🇸 e inglés 🇬🇧  
 📍 Basada en Italia | Buscando nuevas oportunidades
