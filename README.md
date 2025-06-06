@@ -1,23 +1,25 @@
-# 👋 ¡Hola! Soy Valentina Cassioli
+# 👋 Hi, I'm Valentina Cassioli!
 
-💻 **Analista de Ciberseguridad** especializada en tecnologías Microsoft (Azure, Intune, Defender for Endpoint) y apasionada por la seguridad cloud, el análisis de vulnerabilidades y el aprendizaje constante.
+💻 **Security Analyst** specialized in Microsoft technologies (Azure, Intune, Defender for Endpoint) and passionate about cloud security, vulnerability analysis and constant learning.
 
-🔐 **Analista de Ciberseguridad** formada en pentesting y monitoreo con herramientas como SIEM, Wazuh, Metasploit y más.
+🔐 **Cybersecurity Analyst** trained in pentesting and monitoring with tools such as SIEM, Wazuh, Metasploit and more.
 
-🌍 Hablo italiano 🇮🇹, español 🇪🇸 e inglés 🇬🇧  
-📍 Basada en Italia | Buscando nuevas oportunidades
+🌍 I speak Italian 🇮🇹, Spanish 🇪🇸 and English 🇬🇧  
+📍 Based in Italy | Looking for new opportunities.
 
-## 🚀 Stack técnico
-- ☁️ **Cloud & Seguridad**: Azure | Intune | Microsoft Defender | M365
-- 🐧 **Sistemas**: Kali Linux | Debian | Ubuntu
+## 🚀 Technical Stack.
+- ☁️ **Cloud & Security**: Azure | Intune | Microsoft Defender | M365
+- 🐧 **Systems**: Kali Linux | Debian | Ubuntu
 - 🛠️ **Pentesting**: Wazuh | SIEM | Nmap | Metasploit | SQLmap
-- 🌐 **Desarrollo**: HTML | CSS | JavaScript | Angular | Python
+- 🌐 **Development**: HTML | CSS | CSS | JavaScript | Angular | Python
 
-## 📫 Cómo contactarme
+## 📫 How to contact me.
 - [LinkedIn](https://www.linkedin.com/in/valentina-cassioli-aa16771b7)
 - [GitHub](https://github.com/ValeCassio)
 - ✉️ cassioli.valentina@outlook.it
 
 ---
 
-🌱 *"Siempre curiosa, siempre aprendiendo."*
+ *"There’s no security without paranoia. ”*
+
+
