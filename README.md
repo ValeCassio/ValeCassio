@@ -9,7 +9,7 @@
 
 ## 🚀 Technical Stack.
 - ☁️ **Cloud & Security**: Azure | Intune | Microsoft Defender | M365
-- 🐧 **Systems**: Kali Linux | Debian | Ubuntu
+- 🐧 **Systems**: Windows|Kali Linux | Debian | Ubuntu
 - 🛠️ **Pentesting**: Wazuh | SIEM | Nmap | Metasploit | SQLmap
 - 🌐 **Development**: HTML | CSS | CSS | JavaScript | Angular | Python
 
